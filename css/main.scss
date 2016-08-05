@@ -1,0 +1,18 @@
+// Frameworks
+
+// Definings
+@import "_reset.css";
+@import "_variables.scss";
+
+// Global Styles
+@import "_globals.scss";
+
+// Page Specifics
+@import "pages/_about_us.scss";
+
+// Mixins
+@import "_mixins.scss";
+
+body {
+	background: #272727;
+}
